@@ -1,5 +1,10 @@
 
-YoutubeBrowser\YoutubeBrowser\obj
-YoutubeBrowser\YoutubeBrowser\bin
-/YoutubeBrowser/YoutubeBrowser/obj
-/YoutubeBrowser/YoutubeBrowser/bin
+/MediaBrowser/MediaBrowser/obj
+/MediaBrowser/MediaBrowser/bin
+/MediaBrowser/MediaBrowser.Helper/bin
+/MediaBrowser/MediaBrowser.Model/obj
+/MediaBrowser/MediaBrowser.Model/bin
+/MediaBrowser/MediaBrowser.Service/obj
+/MediaBrowser/MediaBrowser.Service/bin
+/MediaBrowser/MediaBrowser.Shell/obj
+/MediaBrowser/MediaBrowser.Shell/bin
