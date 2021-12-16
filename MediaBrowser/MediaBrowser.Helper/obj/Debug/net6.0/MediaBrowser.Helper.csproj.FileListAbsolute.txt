@@ -10,3 +10,16 @@ E:\doc\Programming\Visual_Studio_2022\YoutubeBrowser\MediaBrowser\MediaBrowser.H
 E:\doc\Programming\Visual_Studio_2022\YoutubeBrowser\MediaBrowser\MediaBrowser.Helper\obj\Debug\net6.0\MediaBrowser.Helper.dll
 E:\doc\Programming\Visual_Studio_2022\YoutubeBrowser\MediaBrowser\MediaBrowser.Helper\obj\Debug\net6.0\ref\MediaBrowser.Helper.dll
 E:\doc\Programming\Visual_Studio_2022\YoutubeBrowser\MediaBrowser\MediaBrowser.Helper\obj\Debug\net6.0\MediaBrowser.Helper.pdb
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\bin\Debug\net6.0\MediaBrowser.Helper.deps.json
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\bin\Debug\net6.0\MediaBrowser.Helper.dll
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\bin\Debug\net6.0\ref\MediaBrowser.Helper.dll
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\bin\Debug\net6.0\MediaBrowser.Helper.pdb
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\obj\Debug\net6.0\MediaBrowser.Helper.GlobalUsings.g.cs
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\obj\Debug\net6.0\MediaBrowser.Helper.csproj.AssemblyReference.cache
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\obj\Debug\net6.0\MediaBrowser.Helper.GeneratedMSBuildEditorConfig.editorconfig
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\obj\Debug\net6.0\MediaBrowser.Helper.AssemblyInfoInputs.cache
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\obj\Debug\net6.0\MediaBrowser.Helper.AssemblyInfo.cs
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\obj\Debug\net6.0\MediaBrowser.Helper.csproj.CoreCompileInputs.cache
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\obj\Debug\net6.0\MediaBrowser.Helper.dll
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\obj\Debug\net6.0\ref\MediaBrowser.Helper.dll
+E:\doc\Programming\Visual_Studio_2022\MediaBrowser\MediaBrowser\MediaBrowser.Helper\obj\Debug\net6.0\MediaBrowser.Helper.pdb
